@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @simonedland
 - 👀 I’m interested in IAC
-- 🌱 I’m currently learning BICEP
+- 🌱 I’m currently learning BICEP, Terraform and Pulumi
