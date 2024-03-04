@@ -18,6 +18,6 @@ Diving deep into the cloud, I architect and deploy innovative solutions that dri
 I believe in the power of open-source as a tool for learning, collaboration, and innovation. Here, you'll find my experiments, contributions, and projects that span the gamut of cloud computing and AI. From deploying machine learning models on the cloud to architecting auto-scaling systems that handle millions of requests, my GitHub is a reflection of my journey and my commitment to pushing the boundaries of what's possible.
 
 ## 📫 How to Reach Me
-Let's connect and collaborate! Whether you're looking to bounce ideas, explore potential projects, or just geek out over the latest in cloud technologies and AI advancements, I'm all ears. You can reach me here on GitHub or through [LinkedIn](www.linkedin.com/in/simon-vestvik-edland-731a46171).
+Let's connect and collaborate! Whether you're looking to bounce ideas, explore potential projects, or just geek out over the latest in cloud technologies and AI advancements, I'm all ears. You can reach me here on GitHub or through [LinkedIn](www.linkedin.com/in/simon-vestvik-edland-731a46171/).
 
 *Happy coding, and here's to building the future, one line of code at a time.*
