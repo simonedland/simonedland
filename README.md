@@ -1,23 +1,18 @@
-# 👋 Hello, World! I'm Simone Edland (@simonedland)
+# 💫 About Me:
+🔧 **AI Engineer** | ☁️ Azure · 🐍 Python · 🛠️ Terraform · 🤖 OpenAI<br>Passionate about building scalable, cloud-native AI solutions. I use Terraform to automate infrastructure, Python for data processing and model development, Azure services to deploy at scale, and the OpenAI API to infuse applications with advanced generative intelligence. Always learning and sharing!<br>
 
-Welcome to my digital playground, where code meets infrastructure, and the future is being built, one commit at a time. As a passionate **Cloud Consultant** with a knack for **Artificial Intelligence (AI)**, I thrive on the bleeding edge of technology, turning complex problems into elegant, scalable solutions.
 
-## 🚀 About Me
-Diving deep into the cloud, I architect and deploy innovative solutions that drive efficiency and excellence. My journey in tech has been fueled by a relentless curiosity and a desire to make the digital world more accessible, robust, and secure.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=simonedland&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=simonedland&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=simonedland&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 👀 Interests
-- **Infrastructure as Code (IAC):** Transforming how we build and manage IT infrastructures, IAC is at the heart of my interests. It's not just about automation; it's about crafting resilient, repeatable, and scalable environments that can evolve with the needs of any organization.
-- **AI Integration:** Leveraging AI to enhance cloud solutions, automate processes, and uncover insights from data. My fascination with AI is not just in its power but in its potential to redefine industries, from healthcare to finance, and beyond.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌱 I'm Currently Learning
-- **BICEP:** Flexing my muscles with Azure's declarative language for deploying Azure resources. It's like poetry for the cloud.
-- **Terraform:** An open-source tool that's like a Swiss Army knife for building, changing, and versioning infrastructure safely and efficiently.
-- **Pulumi:** Exploring new frontiers with Pulumi's infrastructure as code for creating, deploying, and managing cloud services across multiple providers.
+---
+[![](https://visitcount.itsvg.in/api?id=simonedland&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💡 Projects & Contributions
-I believe in the power of open-source as a tool for learning, collaboration, and innovation. Here, you'll find my experiments, contributions, and projects that span the gamut of cloud computing and AI. From deploying machine learning models on the cloud to architecting auto-scaling systems that handle millions of requests, my GitHub is a reflection of my journey and my commitment to pushing the boundaries of what's possible.
-
-## 📫 How to Reach Me
-Let's connect and collaborate! Whether you're looking to bounce ideas, explore potential projects, or just geek out over the latest in cloud technologies and AI advancements, I'm all ears. You can reach me through LinkedIn: Simon Vestvik Edland.
-
-*Happy coding, and here's to building the future, one line of code at a time.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
